@@ -48,7 +48,7 @@ Girilen bilgilerin boş geçilmediğinden ve kullanıcı adının mail adresi ol
 
 ### - İletişim
 
-TÜM form elamanları içeren bir iletişim sayfası. Girilen bilgilerin boş geçilmediğinden ve istenilen formatta olduğundan emin olunur, temizle ve gönder butonları içerir.
+Tüm form elamanları içeren bir iletişim sayfası. Girilen bilgilerin boş geçilmediğinden ve istenilen formatta olduğundan emin olunur, temizle ve gönder butonları içerir.
 
 
 
