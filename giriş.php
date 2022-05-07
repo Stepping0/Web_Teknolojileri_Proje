@@ -50,9 +50,9 @@ DOCTYPE html>
 	
 </nav>
 <!----------------------------------------------------------------------------------------------------------------------------------------->
-
-<div  class="capsule2">
-   <div class="container py-5">
+ <br><br><br><br><br><br><br> 
+	
+   <div class="container py-5" style="color:white; text-align:center; align-items:center;">
     <div class="row">
       <div class="col loginMesaj">
         <?php if($_POST["mail"]=="sbetulbudak@gmail.com" && $_POST["sifre"]=="b201210028")
@@ -67,10 +67,9 @@ DOCTYPE html>
         ?>
         </div>
       </div>
-    </div>
-</div> 
+    </div> 
    
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <!---------------------------------------------------------------------------------------------------------------------------------------->
 <footer class="footer-basic">
 		<div class="social">
