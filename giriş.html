@@ -100,7 +100,7 @@ DOCTYPE html>
 		var dotpos = mail.lastIndexOf(".");
 
 		if (mail == null || mail == "", sifre == null || sifre == "") {
-			alert("Tüm alanlar dolu olmalıdır!");
+			alert("Tüm alanları doldurduğunuzdan emin olunuz!");
 			return false;
 		} else if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= mail.length) {
 			alert("Lütfen mail adresine bir @ işareti ekleyin.");
