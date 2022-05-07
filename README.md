@@ -40,7 +40,7 @@ Sevdiğim şehir olan İzmir'e ait bilgilerin olduğu (Şehrin nufusu, gezilecek
 İlgi alanlarımla ilgili verilerin API servisi kullanılarak listelendiği sayfa.
 <br/> <br/> 
 
-### - Log in
+### - Giriş
 
 Kullanıcı adı ve şifre bilgilerinin istendiği sayfa.
 Girilen bilgilerin boş geçilmediğinden ve kullanıcı adının mail adresi olduğundan emin olur. Bilgiler doğruysa "Hoşgeldiniz" mesajıyla girişin başarılı olduğunu bildirir ve yanlışsa sayfaya geri döndürür.
