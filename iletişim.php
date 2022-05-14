@@ -15,6 +15,7 @@
 		integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
 		
 <title>Şule Betül BUDAK </title>
+<link rel="icon" type="image/x-icon" href="pngs/favicon.png" width="100%" height="100%"/>	
   
  
 </head>
