@@ -23,7 +23,7 @@
 .background-main{
 	margin:0;
 	padding:0;
-	background-image: url("photos/iss050e066094_orig.jpg");
+	background-image: url("https://images-assets.nasa.gov/image/iss050e066094/iss050e066094~medium.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -113,9 +113,9 @@
   
 .tiyatro-background{ 
   min-height: 100vh;
-   background-image:url(photos/1651439449053.jpg);
+   background-image:url(https://www.izmir.bel.tr/YuklenenDosyalar/Fotograflar/Orta/17112017_16354_0.jpg);
   background-attachment: scroll;
-  background-size: cover;
+  background-size:100% ;
   background-position: center;
   display: flex;
   justify-content: center;
